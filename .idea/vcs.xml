@@ -2,5 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+<<<<<<< HEAD
+=======
+    <mapping directory="$PROJECT_DIR$/Trello_quora" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quora-api" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/quora-db" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/quora-service" vcs="svn" />
+>>>>>>> 72167352743bc0f48e65308b18164dcc7f5fbc0b
   </component>
 </project>

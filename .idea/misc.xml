@@ -11,4 +11,17 @@
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="libraryTable">
+    <library name="library">
+      <CLASSES>
+        <root url="file://C:/Simulator/library" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://C:/Simulator/library" recursive="false" />
+    </library>
+  </component>
+>>>>>>> 72167352743bc0f48e65308b18164dcc7f5fbc0b
 </project>

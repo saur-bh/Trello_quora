@@ -12,6 +12,7 @@
       </profile>
     </annotationProcessing>
   </component>
+<<<<<<< HEAD
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="quora-api" options="-parameters" />
@@ -19,4 +20,6 @@
       <module name="quora-service" options="-parameters" />
     </option>
   </component>
+=======
+>>>>>>> 72167352743bc0f48e65308b18164dcc7f5fbc0b
 </project>
